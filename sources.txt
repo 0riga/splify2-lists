@@ -40,3 +40,5 @@ itdoginfo/allow-domains | itdoginfo | itdoginfo (allow-domains)
 Greeg0ry/b4geoip-forkop | b4geoip | b4geoip (игры и сервисы) | prefixes
 # Forkop lists
 ushan0v/forkop-lists | forkop | forkop-lists | both
+# iran-srs-mirror
+0riga/iran-srs-mirror | ir4u | ir4u-srs | both
