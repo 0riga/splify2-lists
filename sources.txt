@@ -41,4 +41,4 @@ Greeg0ry/b4geoip-forkop | b4geoip | b4geoip (игры и сервисы) | prefi
 # Forkop lists
 ushan0v/forkop-lists | forkop | forkop-lists | both
 # iran-srs-mirror
-0riga/iran-srs-mirror | ir4u | ir4u-srs | both
+0riga/iran-srs-mirror | ir4u | ir4u-srs | domains
