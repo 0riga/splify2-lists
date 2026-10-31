@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-31_09-46",
-  "generated_at": "2026-10-31T09:46:37Z",
+  "version": "2026-10-31_16-44",
+  "generated_at": "2026-10-31T16:44:31Z",
   "base_url": "https://raw.githubusercontent.com/0riga/splify2-lists/main/lists",
   "categories": [
     {
@@ -650,6 +650,39 @@
       "tag": "2026-10-31-0850",
       "source": "ushan0v/forkop-lists",
       "source_name": "forkop-lists",
+      "default_on": false
+    },
+    {
+      "id": "ir4u:geosite-bluearchive",
+      "name_ru": "BlueArchive",
+      "file": "ir4u/geosite-bluearchive.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/0riga/iran-srs-mirror/releases/download/srs-e47de6f-dada8c5-7a0e5d1/geosite-bluearchive.srs",
+      "tag": "srs-e47de6f-dada8c5-7a0e5d1",
+      "source": "0riga/iran-srs-mirror",
+      "source_name": "ir4u-srs",
+      "default_on": false
+    },
+    {
+      "id": "ir4u:geosite-bluearchive@cn",
+      "name_ru": "BlueArchive CN",
+      "file": "ir4u/geosite-bluearchive@cn.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/0riga/iran-srs-mirror/releases/download/srs-e47de6f-dada8c5-7a0e5d1/geosite-bluearchive%40cn.srs",
+      "tag": "srs-e47de6f-dada8c5-7a0e5d1",
+      "source": "0riga/iran-srs-mirror",
+      "source_name": "ir4u-srs",
+      "default_on": false
+    },
+    {
+      "id": "ir4u:geosite-nexon",
+      "name_ru": "Nexon",
+      "file": "ir4u/geosite-nexon.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/0riga/iran-srs-mirror/releases/download/srs-e47de6f-dada8c5-7a0e5d1/geosite-nexon.srs",
+      "tag": "srs-e47de6f-dada8c5-7a0e5d1",
+      "source": "0riga/iran-srs-mirror",
+      "source_name": "ir4u-srs",
       "default_on": false
     }
   ],
@@ -1423,6 +1456,51 @@
       "default_on": false,
       "same_as_ip": [
         "forkop:youtube"
+      ]
+    },
+    {
+      "id": "svc_ir4u_geosite-bluearchive",
+      "kind": "domains",
+      "name_ru": "BlueArchive",
+      "file": "ir4u/domains/geosite-bluearchive.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/0riga/iran-srs-mirror/releases/download/srs-e47de6f-dada8c5-7a0e5d1/geosite-bluearchive.srs",
+      "tag": "srs-e47de6f-dada8c5-7a0e5d1",
+      "source": "0riga/iran-srs-mirror",
+      "source_name": "ir4u-srs",
+      "default_on": false,
+      "same_as_ip": [
+        "ir4u:geosite-bluearchive"
+      ]
+    },
+    {
+      "id": "svc_ir4u_geosite-bluearchive@cn",
+      "kind": "domains",
+      "name_ru": "BlueArchive CN",
+      "file": "ir4u/domains/geosite-bluearchive@cn.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/0riga/iran-srs-mirror/releases/download/srs-e47de6f-dada8c5-7a0e5d1/geosite-bluearchive%40cn.srs",
+      "tag": "srs-e47de6f-dada8c5-7a0e5d1",
+      "source": "0riga/iran-srs-mirror",
+      "source_name": "ir4u-srs",
+      "default_on": false,
+      "same_as_ip": [
+        "ir4u:geosite-bluearchive@cn"
+      ]
+    },
+    {
+      "id": "svc_ir4u_geosite-nexon",
+      "kind": "domains",
+      "name_ru": "Nexon",
+      "file": "ir4u/domains/geosite-nexon.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/0riga/iran-srs-mirror/releases/download/srs-e47de6f-dada8c5-7a0e5d1/geosite-nexon.srs",
+      "tag": "srs-e47de6f-dada8c5-7a0e5d1",
+      "source": "0riga/iran-srs-mirror",
+      "source_name": "ir4u-srs",
+      "default_on": false,
+      "same_as_ip": [
+        "ir4u:geosite-nexon"
       ]
     }
   ]
