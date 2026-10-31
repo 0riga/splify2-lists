@@ -84,3 +84,8 @@ forkop:ua-blocked | Ua-Blocked
 forkop:whatsapp | Whatsapp
 forkop:x | X
 forkop:youtube | Youtube
+
+# iran-srs-mirror
+ir4u:geosite-bluearchive | BlueArchive
+ir4u:geosite-bluearchive@cn | BlueArchive CN
+ir4u:geosite-nexon | Nexon
