@@ -57,3 +57,30 @@ b4geoip:ubisoft | Ubisoft
 b4geoip:valve | Valve (Steam)
 b4geoip:wargaming | Wargaming
 b4geoip:xbox | Xbox
+
+# ushan0v/forkop-lists
+forkop:ads | Ads (реклама и трекеры)
+forkop:ai | ChatGPT, Claude, Gemini, Grok, Perplexity, Copilot, Cursor и другие нейросети
+forkop:chatgpt | Chatgpt
+forkop:claude | Claude
+forkop:cloudflare | Cloudflare
+forkop:discord | Discord
+forkop:facebook | Facebook
+forkop:gemini | Gemini
+forkop:github | Github
+forkop:google-play | Google-Play
+forkop:instagram | Instagram
+forkop:roblox | Roblox
+forkop:ru-blocked-all | Ru-Blocked-All
+forkop:ru-blocked-geo | Ru-Blocked-Geo
+forkop:ru-blocked-rkn | Ru-Blocked-Rkn
+forkop:ru-only | Ru-Only
+forkop:spotify | Spotify
+forkop:supercell | Supercell
+forkop:telegram | Telegram
+forkop:tiktok | Tiktok
+forkop:twitch | Twitch
+forkop:ua-blocked | Ua-Blocked
+forkop:whatsapp | Whatsapp
+forkop:x | X
+forkop:youtube | Youtube
