@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-31_00-46",
-  "generated_at": "2026-10-31T00:46:56Z",
+  "version": "2026-10-31_02-05",
+  "generated_at": "2026-10-31T02:05:14Z",
   "base_url": "https://raw.githubusercontent.com/0riga/splify2-lists/main/lists",
   "categories": [
     {
@@ -346,24 +346,24 @@
     },
     {
       "id": "forkop:ads",
-      "name_ru": "Ads",
+      "name_ru": "Ads (реклама и трекеры)",
       "file": "forkop/ads.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/ads.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ads.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
       "id": "forkop:ai",
-      "name_ru": "Ai",
+      "name_ru": "ChatGPT, Claude, Gemini, Grok, Perplexity, Copilot, Cursor и другие нейросети",
       "file": "forkop/ai.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/ai.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ai.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -371,10 +371,10 @@
       "name_ru": "Chatgpt",
       "file": "forkop/chatgpt.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/chatgpt.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/chatgpt.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -382,10 +382,10 @@
       "name_ru": "Claude",
       "file": "forkop/claude.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/claude.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/claude.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -393,10 +393,21 @@
       "name_ru": "Cloudflare",
       "file": "forkop/cloudflare.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/cloudflare.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/cloudflare.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
+      "default_on": false
+    },
+    {
+      "id": "forkop:digitalocean",
+      "name_ru": "Digitalocean",
+      "file": "forkop/digitalocean.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/digitalocean.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -404,10 +415,10 @@
       "name_ru": "Discord",
       "file": "forkop/discord.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/discord.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/discord.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -415,10 +426,10 @@
       "name_ru": "Facebook",
       "file": "forkop/facebook.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/facebook.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/facebook.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -426,10 +437,10 @@
       "name_ru": "Gemini",
       "file": "forkop/gemini.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/gemini.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/gemini.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -437,10 +448,10 @@
       "name_ru": "Github",
       "file": "forkop/github.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/github.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/github.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -448,10 +459,21 @@
       "name_ru": "Google-Play",
       "file": "forkop/google-play.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/google-play.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/google-play.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
+      "default_on": false
+    },
+    {
+      "id": "forkop:hetzner",
+      "name_ru": "Hetzner",
+      "file": "forkop/hetzner.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/hetzner.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -459,10 +481,21 @@
       "name_ru": "Instagram",
       "file": "forkop/instagram.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/instagram.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/instagram.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
+      "default_on": false
+    },
+    {
+      "id": "forkop:ovh",
+      "name_ru": "Ovh",
+      "file": "forkop/ovh.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ovh.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -470,10 +503,10 @@
       "name_ru": "Roblox",
       "file": "forkop/roblox.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/roblox.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/roblox.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -481,10 +514,10 @@
       "name_ru": "Ru-Blocked-All",
       "file": "forkop/ru-blocked-all.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/ru-blocked-all.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ru-blocked-all.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -492,10 +525,10 @@
       "name_ru": "Ru-Blocked-Geo",
       "file": "forkop/ru-blocked-geo.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/ru-blocked-geo.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ru-blocked-geo.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -503,10 +536,10 @@
       "name_ru": "Ru-Blocked-Rkn",
       "file": "forkop/ru-blocked-rkn.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/ru-blocked-rkn.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ru-blocked-rkn.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -514,10 +547,10 @@
       "name_ru": "Ru-Only",
       "file": "forkop/ru-only.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/ru-only.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ru-only.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -525,10 +558,10 @@
       "name_ru": "Spotify",
       "file": "forkop/spotify.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/spotify.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/spotify.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -536,10 +569,10 @@
       "name_ru": "Supercell",
       "file": "forkop/supercell.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/supercell.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/supercell.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -547,10 +580,10 @@
       "name_ru": "Telegram",
       "file": "forkop/telegram.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/telegram.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/telegram.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -558,10 +591,10 @@
       "name_ru": "Tiktok",
       "file": "forkop/tiktok.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/tiktok.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/tiktok.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -569,10 +602,10 @@
       "name_ru": "Twitch",
       "file": "forkop/twitch.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/twitch.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/twitch.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -580,10 +613,10 @@
       "name_ru": "Ua-Blocked",
       "file": "forkop/ua-blocked.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/ua-blocked.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ua-blocked.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -591,10 +624,10 @@
       "name_ru": "Whatsapp",
       "file": "forkop/whatsapp.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/whatsapp.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/whatsapp.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -602,10 +635,10 @@
       "name_ru": "X",
       "file": "forkop/x.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/x.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/x.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     },
     {
@@ -613,10 +646,10 @@
       "name_ru": "Youtube",
       "file": "forkop/youtube.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/youtube.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/youtube.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false
     }
   ],
@@ -975,13 +1008,13 @@
     {
       "id": "svc_forkop_ads",
       "kind": "domains",
-      "name_ru": "Ads",
+      "name_ru": "Ads (реклама и трекеры)",
       "file": "forkop/domains/ads.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/ads.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ads.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false,
       "same_as_ip": [
         "forkop:ads"
@@ -990,13 +1023,13 @@
     {
       "id": "svc_forkop_ai",
       "kind": "domains",
-      "name_ru": "Ai",
+      "name_ru": "ChatGPT, Claude, Gemini, Grok, Perplexity, Copilot, Cursor и другие нейросети",
       "file": "forkop/domains/ai.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/ai.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ai.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false,
       "same_as_ip": [
         "forkop:ai"
@@ -1008,10 +1041,10 @@
       "name_ru": "Chatgpt",
       "file": "forkop/domains/chatgpt.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/chatgpt.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/chatgpt.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false,
       "same_as_ip": [
         "forkop:chatgpt"
@@ -1023,13 +1056,73 @@
       "name_ru": "Claude",
       "file": "forkop/domains/claude.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/claude.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/claude.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false,
       "same_as_ip": [
         "forkop:claude"
+      ]
+    },
+    {
+      "id": "svc_forkop_cloudflare",
+      "kind": "domains",
+      "name_ru": "Cloudflare",
+      "file": "forkop/domains/cloudflare.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/cloudflare.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:cloudflare"
+      ]
+    },
+    {
+      "id": "svc_forkop_digitalocean",
+      "kind": "domains",
+      "name_ru": "Digitalocean",
+      "file": "forkop/domains/digitalocean.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/digitalocean.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:digitalocean"
+      ]
+    },
+    {
+      "id": "svc_forkop_discord",
+      "kind": "domains",
+      "name_ru": "Discord",
+      "file": "forkop/domains/discord.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/discord.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:discord"
+      ]
+    },
+    {
+      "id": "svc_forkop_facebook",
+      "kind": "domains",
+      "name_ru": "Facebook",
+      "file": "forkop/domains/facebook.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/facebook.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:facebook"
       ]
     },
     {
@@ -1038,13 +1131,163 @@
       "name_ru": "Gemini",
       "file": "forkop/domains/gemini.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/gemini.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/gemini.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false,
       "same_as_ip": [
         "forkop:gemini"
+      ]
+    },
+    {
+      "id": "svc_forkop_github",
+      "kind": "domains",
+      "name_ru": "Github",
+      "file": "forkop/domains/github.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/github.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:github"
+      ]
+    },
+    {
+      "id": "svc_forkop_google-play",
+      "kind": "domains",
+      "name_ru": "Google-Play",
+      "file": "forkop/domains/google-play.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/google-play.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:google-play"
+      ]
+    },
+    {
+      "id": "svc_forkop_hetzner",
+      "kind": "domains",
+      "name_ru": "Hetzner",
+      "file": "forkop/domains/hetzner.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/hetzner.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:hetzner"
+      ]
+    },
+    {
+      "id": "svc_forkop_instagram",
+      "kind": "domains",
+      "name_ru": "Instagram",
+      "file": "forkop/domains/instagram.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/instagram.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:instagram"
+      ]
+    },
+    {
+      "id": "svc_forkop_ovh",
+      "kind": "domains",
+      "name_ru": "Ovh",
+      "file": "forkop/domains/ovh.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ovh.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:ovh"
+      ]
+    },
+    {
+      "id": "svc_forkop_roblox",
+      "kind": "domains",
+      "name_ru": "Roblox",
+      "file": "forkop/domains/roblox.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/roblox.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:roblox"
+      ]
+    },
+    {
+      "id": "svc_forkop_ru-blocked-all",
+      "kind": "domains",
+      "name_ru": "Ru-Blocked-All",
+      "file": "forkop/domains/ru-blocked-all.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ru-blocked-all.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:ru-blocked-all"
+      ]
+    },
+    {
+      "id": "svc_forkop_ru-blocked-geo",
+      "kind": "domains",
+      "name_ru": "Ru-Blocked-Geo",
+      "file": "forkop/domains/ru-blocked-geo.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ru-blocked-geo.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:ru-blocked-geo"
+      ]
+    },
+    {
+      "id": "svc_forkop_ru-blocked-rkn",
+      "kind": "domains",
+      "name_ru": "Ru-Blocked-Rkn",
+      "file": "forkop/domains/ru-blocked-rkn.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ru-blocked-rkn.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:ru-blocked-rkn"
+      ]
+    },
+    {
+      "id": "svc_forkop_ru-only",
+      "kind": "domains",
+      "name_ru": "Ru-Only",
+      "file": "forkop/domains/ru-only.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ru-only.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:ru-only"
       ]
     },
     {
@@ -1053,13 +1296,133 @@
       "name_ru": "Spotify",
       "file": "forkop/domains/spotify.srs.lst",
       "format": "srs",
-      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-30-0857/spotify.srs",
-      "tag": "2026-10-30-0857",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/spotify.srs",
+      "tag": "2026-10-31-0129",
       "source": "ushan0v/forkop-lists",
-      "source_name": "forkop",
+      "source_name": "forkop-lists",
       "default_on": false,
       "same_as_ip": [
         "forkop:spotify"
+      ]
+    },
+    {
+      "id": "svc_forkop_supercell",
+      "kind": "domains",
+      "name_ru": "Supercell",
+      "file": "forkop/domains/supercell.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/supercell.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:supercell"
+      ]
+    },
+    {
+      "id": "svc_forkop_telegram",
+      "kind": "domains",
+      "name_ru": "Telegram",
+      "file": "forkop/domains/telegram.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/telegram.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:telegram"
+      ]
+    },
+    {
+      "id": "svc_forkop_tiktok",
+      "kind": "domains",
+      "name_ru": "Tiktok",
+      "file": "forkop/domains/tiktok.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/tiktok.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:tiktok"
+      ]
+    },
+    {
+      "id": "svc_forkop_twitch",
+      "kind": "domains",
+      "name_ru": "Twitch",
+      "file": "forkop/domains/twitch.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/twitch.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:twitch"
+      ]
+    },
+    {
+      "id": "svc_forkop_ua-blocked",
+      "kind": "domains",
+      "name_ru": "Ua-Blocked",
+      "file": "forkop/domains/ua-blocked.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/ua-blocked.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:ua-blocked"
+      ]
+    },
+    {
+      "id": "svc_forkop_whatsapp",
+      "kind": "domains",
+      "name_ru": "Whatsapp",
+      "file": "forkop/domains/whatsapp.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/whatsapp.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:whatsapp"
+      ]
+    },
+    {
+      "id": "svc_forkop_x",
+      "kind": "domains",
+      "name_ru": "X",
+      "file": "forkop/domains/x.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/x.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:x"
+      ]
+    },
+    {
+      "id": "svc_forkop_youtube",
+      "kind": "domains",
+      "name_ru": "Youtube",
+      "file": "forkop/domains/youtube.srs.lst",
+      "format": "srs",
+      "url": "https://github.com/ushan0v/forkop-lists/releases/download/2026-10-31-0129/youtube.srs",
+      "tag": "2026-10-31-0129",
+      "source": "ushan0v/forkop-lists",
+      "source_name": "forkop-lists",
+      "default_on": false,
+      "same_as_ip": [
+        "forkop:youtube"
       ]
     }
   ]
