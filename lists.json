@@ -1,8 +1,15 @@
 {
-  "version": "2026-11-01_10-37",
-  "generated_at": "2026-11-01T10:37:17Z",
+  "version": "2026-11-01_17-53",
+  "generated_at": "2026-11-01T17:53:47Z",
   "base_url": "https://raw.githubusercontent.com/0riga/splify2-lists/main/lists",
   "categories": [
+    {
+      "id": "AS206963",
+      "name_ru": "AS206963",
+      "file": "AS206963.asn.lst",
+      "count": 7,
+      "default_on": false
+    },
     {
       "id": "itdoginfo:cloudflare",
       "name_ru": "Cloudflare",
